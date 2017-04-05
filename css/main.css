@@ -79,6 +79,14 @@ sectio {
   max-width: 940px;
   text-align:center;
 }
+.list-wraps {
+  background-color: #315559;
+  padding: 50px;
+  width: 60%;
+  margin: 100px auto;
+  max-width: 940px;
+  text-align:center;
+}
 /***********
 Footer
 ************/
